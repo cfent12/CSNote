@@ -48,3 +48,17 @@
 - [메서드의 AsyncMethodBuilder 특성 허용](10/메서드의%20AsyncMethodBuilder%20특성%20허용.md)
 - [CallerArgumentExpression 특성 진단](10/CallerArgumentExpression%20특성%20진단.md)
 - [향상된 #line pragma](10/향상된%20line%20pragma.md)
+
+## 9
+- [레코드](9/레코드.md)
+- [초기화 전용 setter](9/초기화%20전용%20setter.md)
+- [최상위 문](9/최상위%20문.md)
+- 패턴 일치 개선사항
+    - [관계형 패턴](9/관계형%20패턴.md)
+    - [논리적 패턴](9/논리적%20패턴.md)
+- 성능 및 interop
+    - [원시 크기 정수](9/원시%20크기%20정수.md)
+    - [함수 포인터](9/함수%20포인터.md)
+    - [localsinit 플래그 내보내기 무시](9/localsinit%20플래그%20내보내기%20무시.md)
+    - [모듈 이니셜라이저](9/모듈%20이니셜라이저.md)
+    - [부분 메서드에 대한 새로운 기능](9/부분%20메서드에%20대한%20새로운%20기능.md)
