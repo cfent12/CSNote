@@ -1,11 +1,5 @@
 # C# 버전별 추가 기능
 
-md file 줄바꿈 테스트
-111
-
-222  
-333
-
 ## 13
 - [params 컬렉션](13/params%20컬렉션.md)
 - [새 lock object](13/새%20lock%20object.md)
